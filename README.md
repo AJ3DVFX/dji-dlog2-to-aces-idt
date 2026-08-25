@@ -29,7 +29,7 @@ Windows:
 %APPDATA%\Blackmagic Design\DaVinci Resolve\Support\ACES Transforms\IDT\
 ```
 
-# Examples
+# Example
 
 <img width="1280" height="720" alt="DLog2_IDT_example" src="https://github.com/user-attachments/assets/df69fd97-ceaf-40b7-8be3-cfac2716118f" />
 
